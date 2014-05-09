@@ -1,0 +1,13 @@
+Service-Component: *
+-buildpath: osgi.core,\
+	osgi.cmpn,\
+	biz.aQute.bnd.annotation,\
+	junit.osgi,\
+	org.eclipse.emf.examples.library,\
+	org.eclipse.emf.examples.library.edit,\
+	org.eclipse.emf.ecore,\
+	org.eclipse.emf.ecore.xmi,\
+	org.eclipse.emf.edit,\
+	org.eclipse.emf.common,\
+	org.eclipse.emf.ecore.edit
+Private-Package: org.example
